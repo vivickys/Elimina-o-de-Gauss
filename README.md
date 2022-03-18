@@ -1,2 +1,2 @@
 # Elimina-o-de-Gauss
-Cálculo numérico
+Cálculo numérico  - PYTHON
